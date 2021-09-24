@@ -1,5 +1,5 @@
 ## 적용 대상
 # 운영체제 환경 : Centos 5.x / 6.x / 7.x | Ubuntu 16.04 / 18.04
 # 로컬백업 : daily_data_backup.sh
-# 디비백업 : mysql, mariadb (innodb 백업 설정)
-# 백업솔루션 : AvamarClient-* (클라이언트에 설정에 대한 내용)
+# 디비백업 : innodb_dump_backup.sh (mysql, mariadb (innodb 백업 설정))
+# 백업 솔루션 파일 관리 : 
